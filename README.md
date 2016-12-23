@@ -22,7 +22,7 @@ Or install it yourself as:
 ## Usage
 
 
-Ex.: `['8:00','9:00', '13:30','15:45']`
+Ex.: `['8:00', '9:00', '13:30', '15:45']`
 
 Format suported : `H:M`
 
